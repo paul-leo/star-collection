@@ -103,3 +103,17 @@
 | [michael/react-landmarks](https://github.com/michaelkolesidis/react-landmarks) | 6 | React landmarks component |
 | [ardeois/faker.js](https://github.com/ardeois/faker.js) | 7 | Faker.js (deprecated fork) |
 | [taofed/demo](https://github.com/taofed/demo) | 88 | Tao FED demo |
+
+---
+
+## Idea Backlog
+
+> Ideas from abandoned repos worth revisiting someday.
+
+| Idea | Description | Related To |
+|------|-------------|------------|
+| context-manager | 通用上下文管理方案 | MorphixAI Memory system |
+| focusbe-search | 根据网络环境自动切换搜索引擎的浏览器插件 | focusbe tools |
+| personal-assistant-agent | 个人 AI 助手 Agent | MorphixAI Agent |
+| show-me-steps-mcp | MCP Server：可视化展示操作步骤 | openclaw ecosystem |
+| offline-first | 离线优先架构方案探索 | watermelondb-sync-model |
